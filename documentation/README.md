@@ -16,7 +16,7 @@ Otherwise run.sh would not work.
 
 ## To run the project
 You can run this project in two ways:
-	-- simply run "run.sh" and it would do all the necessary job.
+	-- change the permission for the "run.sh" file and simply run "./run.sh" and it would do all the necessary job.
 	-- You can follow steps mentioned in the "build" folder README.md
 
 ## To test
